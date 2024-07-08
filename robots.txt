@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egampsyce.github.io/sitemap
+Sitemap: https://egampsyce.github.io/app/sitemap
+Sitemap: https://egampsyce.github.io/assets/sitemap
+Sitemap: https://egampsyce.github.io/css/sitemap
+Sitemap: https://egampsyce.github.io/includes/sitemap
+Sitemap: https://egampsyce.github.io/item/sitemap
+Sitemap: https://egampsyce.github.io/src/sitemap
